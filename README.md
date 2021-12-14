@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### This is Subhajit Maity
+##### Independent Researcher in Computer Vision & Pattern Recognition
 <!--
 **MaitySubhajit/MaitySubhajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
