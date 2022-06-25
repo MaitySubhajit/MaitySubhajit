@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 #### This is Subhajit Maity
-##### Independent Researcher in Computer Vision & Pattern Recognition
+##### Associate Research Engineer, Technology Innovation Hub, Indian Statistical Institute, Kolkata
+##### Researcher in Computer Vision & Pattern Recognition
 <!--
 **MaitySubhajit/MaitySubhajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on FG-SBIR, Image Forgery
+- 🔭 I’m currently working on FG-SBIR, Image Forgery, Scene Text Recognition
 - 🌱 I’m currently learning Meta Learning, Generative Models, Transformers
 - 👯 I’m looking to collaborate on any Computer Vision project
 - 🤔 I’m looking for help with understanding Weakly supervised learning
