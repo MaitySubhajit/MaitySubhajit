@@ -6,7 +6,7 @@
 
 [![Static Badge](https://img.shields.io/badge/maitysubhajit.github.io-222222?style=plastic&logo=githubpages)](https://maitysubhajit.github.io/) [![Static Badge](https://img.shields.io/badge/smaity.jgec18%40gmail.com-white?style=plastic&logo=gmail)](mailto:smaity.jgec18@gmail.com) [![Static Badge](https://img.shields.io/badge/subhajit1996maity-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/subhajit1996maity/) [![Static Badge](https://img.shields.io/badge/MaitySubhajit-181717?style=plastic&logo=github)](https://github.com/MaitySubhajit) [![Static Badge](https://img.shields.io/badge/Subhajit%20Maity-white?style=plastic&logo=googlescholar)](https://scholar.google.com/citations?user=txZgrn4AAAAJ) [![Static Badge](https://img.shields.io/badge/228%2F8254-004F9F?style=plastic&logo=dblp)
 ](https://dblp.org/pid/228/8254.html) [![Static Badge](https://img.shields.io/badge/0000--0002--0735--8406-white?style=plastic&logo=orcid)](https://orcid.org/0000-0002-0735-8406)
-##### Researcher in Computer Vision & Machine Learning, currently working as Associate Research Engineer at [IDEAS - Technology Innovation Hub](https://www.isical.ac.in/~tihisi/), [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
+##### Computer Science PhD Student at [University of Central Florida](https://www.ucf.edu), working at the intersection of Computer Vision and Machine Learning.
 
 ##### Find more about me at my [:link: webpage](https://maitysubhajit.github.io/)
 
@@ -19,12 +19,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Document Layout Analysis, Keypoint Detection, Self-Supervised Learning
-- 🌱 I’m currently learning Meta Learning, Generative Models, Transformers
+- 🔭 I’m currently working on Large Multimodal Models, Keypoint Detection, Attention Mechansim
+- 🌱 I’m currently learning Low Rank Approximation, Federated Machine Learning
 - 👯 I’m looking to collaborate on any Computer Vision/Machine Learning project
-- 🤔 I’m looking for help with understanding Meta-learning
+- 🤔 I’m looking for help with Spectral Contrastive Learning, Adversarial Attacks, Implicit Bias
 - 💬 Ask me about Computer Vision, Deep Learning
-- 📫 How to reach me: [:email: Email](mailto:smaity.jgec18@gmail.com), [:bookmark_tabs: LinkedIn](https://www.linkedin.com/in/subhajit1996maity/)
+- 📫 How to reach me: [:email: Email](mailto:Subhajit@ucf.edu), [:bookmark_tabs: LinkedIn](https://www.linkedin.com/in/subhajit1996maity/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We are learning about "learning", machines are "learning". We are learning to "learn", machines are "learning to learn".
 <!-- - ⚡ Fun fact: Every fact is fun when it's related to learning! -->
