@@ -9,7 +9,10 @@
 ##### Researcher in Computer Vision & Machine Learning, currently working as Associate Research Engineer at [IDEAS - Technology Innovation Hub](https://www.isical.ac.in/~tihisi/), [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
 
 ##### Find more about me at my [:link: webpage](https://maitysubhajit.github.io/)
-![Webpage](qr.png)
+
+<img src="qr.png" width="500" height="500">
+
+<!-- ![Webpage](qr.png) -->
 <!--
 **MaitySubhajit/MaitySubhajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
