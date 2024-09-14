@@ -10,7 +10,7 @@
 
 ##### Find more about me at my [:link: webpage](https://maitysubhajit.github.io/)
 
-<img src="qr.png" width="500" height="500">
+<img src="qr.png" width="250" height="250">
 
 <!-- ![Webpage](qr.png) -->
 <!--
