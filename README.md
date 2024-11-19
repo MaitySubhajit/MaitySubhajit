@@ -4,7 +4,9 @@
 
 #### This is Subhajit Maity
 
-[![Static Badge](https://img.shields.io/badge/maitysubhajit.github.io-222222?style=plastic&logo=githubpages)](https://maitysubhajit.github.io/) [![Static Badge](https://img.shields.io/badge/smaity.jgec18%40gmail.com-white?style=plastic&logo=gmail)](mailto:smaity.jgec18@gmail.com) [![Static Badge](https://img.shields.io/badge/subhajit1996maity-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/subhajit1996maity/) [![Static Badge](https://img.shields.io/badge/MaitySubhajit-181717?style=plastic&logo=github)](https://github.com/MaitySubhajit) [![Static Badge](https://img.shields.io/badge/Subhajit%20Maity-white?style=plastic&logo=googlescholar)](https://scholar.google.com/citations?user=txZgrn4AAAAJ) [![Static Badge](https://img.shields.io/badge/228%2F8254-004F9F?style=plastic&logo=dblp)
+[![Static Badge](https://img.shields.io/badge/maitysubhajit.github.io-222222?style=plastic&logo=githubpages)](https://maitysubhajit.github.io/) [![Static Badge](https://img.shields.io/badge/smaity.jgec18%40gmail.com-white?style=plastic&logo=gmail)](mailto:smaity.jgec18@gmail.com) [![Static Badge](https://img.shields.io/badge/subhajit1996maity-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/subhajit1996maity/)
+
+[![Static Badge](https://img.shields.io/badge/MaitySubhajit-181717?style=plastic&logo=github)](https://github.com/MaitySubhajit) [![Static Badge](https://img.shields.io/badge/Subhajit%20Maity-white?style=plastic&logo=googlescholar)](https://scholar.google.com/citations?user=txZgrn4AAAAJ) [![Static Badge](https://img.shields.io/badge/228%2F8254-004F9F?style=plastic&logo=dblp)
 ](https://dblp.org/pid/228/8254.html) [![Static Badge](https://img.shields.io/badge/0000--0002--0735--8406-white?style=plastic&logo=orcid)](https://orcid.org/0000-0002-0735-8406)
 ##### Computer Science PhD Student at [University of Central Florida](https://www.ucf.edu), working at the intersection of Computer Vision and Machine Learning.
 
