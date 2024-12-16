@@ -10,7 +10,7 @@
 ](https://dblp.org/pid/228/8254.html) [![Static Badge](https://img.shields.io/badge/0000--0002--0735--8406-white?style=plastic&logo=orcid)](https://orcid.org/0000-0002-0735-8406)
 ##### Computer Science PhD Student at [University of Central Florida](https://www.ucf.edu), working at the intersection of Computer Vision and Machine Learning.
 
-##### Find more about me at my [:link: webpage](https://maitysubhajit.github.io/)
+##### Find more about me at my [:link: webpage](https://subhajitmaity.me/)
 
 <img src="qr.png" width="250" height="250">
 
